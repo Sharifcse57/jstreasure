@@ -1,0 +1,1 @@
+[05-Oct-2016 14:06:15 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\has() in /home/uysys/public_html/demo/hurtigruten/app/Http/Controllers/ExcursionsController.php on line 273
